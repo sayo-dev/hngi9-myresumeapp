@@ -31,3 +31,9 @@ A page that contains screenshots, images or links of projects the user have work
 The only challenge i faced was switching language which is still yet to be perfected.
 
 //apk link
+
+https://drive.google.com/file/d/1CNnSpEXg9-guFXXG2ElSfe9UvbjSR0Mh/view?usp=share_link
+
+//appetize.io link
+
+https://appetize.io/app/i36xxk2jujfubzpnqmt3grm47a
